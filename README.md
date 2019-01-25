@@ -7,7 +7,7 @@ Tenho mais 5 anos de experiência em desenvolvimento de aplicações web/mobile.
 - HTML e Template Languages
 - Design Responsivo (Mobile First)
 - CSS (Stylus, Sass, Less, PostCSS)
-- CSS Frameworks (Bootstrap, Foundation, Bulma)
+- CSS Frameworks (Bootstrap, Material Design, Bulma)
 - Javascript (Design Patterns, Testes, ES6/7)
 - VueJS / Vuex
 - React / React Native
@@ -45,6 +45,7 @@ Tenho mais 5 anos de experiência em desenvolvimento de aplicações web/mobile.
 - Desenvolvedor Web
 
 ## Contato
+- Telefone(s): +55 (44) 9 9136-2115 ou +55(44) 9 9824-6268
 - [Site Pessoal](https://www.viniciusaugusto.com.br)
 - [Github](https://www.github.com/ViniciusAugusto)
 - [Linkedin](https://www.linkedin.com/in/vin%C3%ADcius-augusto-cunha-0146b64b/)
