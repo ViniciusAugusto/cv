@@ -46,6 +46,7 @@ Tenho mais 5 anos de experiência em desenvolvimento de aplicações web/mobile.
 
 ## Contato
 - Telefone(s): +55 (44) 9 9136-2115 ou +55(44) 9 9824-6268
+- [Email - viniciusaugustocunha@gmail.com](viniciusaugustocunha@gmail.com)
 - [Site Pessoal](https://www.viniciusaugusto.com.br)
 - [Github](https://www.github.com/ViniciusAugusto)
 - [Linkedin](https://www.linkedin.com/in/vin%C3%ADcius-augusto-cunha-0146b64b/)
